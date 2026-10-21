@@ -34,7 +34,7 @@ A no-code 3D game editor that runs offline from one HTML file. You build levels,
 
 ## Studio
 
-Veil & Wire Studio is working on its first game, a first-person psychological horror title in Unreal Engine 5.
+Gatehouse Interactive is working on its first game, a first-person psychological horror title in Unreal Engine 5.
 
 ## Contact
 
