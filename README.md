@@ -26,15 +26,15 @@ A chess roguelite where each move scores Chips × Mult. You spend your winnings 
 
 ### [Vira Engine](https://github.com/WAGNER47/Vira-Engine)
 
-[Open the editor](https://wagner47.github.io/Vira-Engine/) (desktop)
+[Website](https://gatehouseinteractive.com)
 
-A no-code 3D game editor that runs offline from one HTML file. You build levels, rooms, terrain, animation, sound and cutscenes in one window, then press Play. Logic Tiles let you write game behavior as short sentences instead of node graphs. In active development.
+A no-code 3D game engine. You build levels, rooms, terrain, animation, sound and cutscenes in one window, then press Play. Logic Tiles let you write game behavior as short sentences instead of node graphs. Games are built to run on desktop, phones and VR headsets. In active development.
 
-`Three.js` `cannon.js` `JavaScript`
+`No-code` `3D` `Physics` `VR`
 
 ## Studio
 
-Gatehouse Interactive is working on its first game, a first-person psychological horror title in Unreal Engine 5.
+Gatehouse Interactive makes Vira Engine and published Blind Gambit. It is also working on a first-person psychological horror game in Unreal Engine 5.
 
 ## Contact
 
