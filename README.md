@@ -1,9 +1,5 @@
 
 
-Game developer in Toronto. I build roguelites that run in the browser and on Telegram, and I co-founded Gatehouse Interactive.
-
-Before games, I ran social media and video production for a five-clinic dental group in the GTA and for an education company.
-
 ## Games
 
 ### [Abyss Survivors](https://github.com/WAGNER47/Abyss-Survivors-Bot)
